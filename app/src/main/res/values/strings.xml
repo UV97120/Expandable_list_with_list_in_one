@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expandable_list_with_list_in_one</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="not_available_text">N/A</string>
+    <string name="future_travel_list_header">Travel Plans</string>
+    <string name="past_travel_list_header">Past Trips</string>
+
+
+</resources>
